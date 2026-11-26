@@ -1,0 +1,55 @@
+[
+  {
+    "orderId": 1,
+    "billUuid": "a1b2c3d4-e5f6-7890-abcd-1234567890aa",
+    "isSync": false,
+    "orderNumber": "BILL-1001",
+    "status": "booked",
+    "startTime": "2024-06-19 12:15:00",
+    "endTime": null,
+    "printCount": 1,
+    "orderType": "Dine-in",
+    "userName": "Alice",
+    "totalAmount": 520.50,
+    "totalQty": 3,
+    "createdOn": "2024-06-19",
+    "table": {
+      "name": "Table 5",
+      "seat": "4",
+      "roomType": "AC",
+       "roomUuid": "a1b2c3d4-e5f6-7890-abcd-1234567890aa",
+      "tableStatus":  "Avaiable , booked"
+    },
+    "customer": {
+      "name": "Rahul",
+      "contactNumber": "9876543210"
+    },
+    "listKot": [
+      {
+        "kotId": 1,
+        "kotUuid": "11111111-2222-3333-4444-555555555555",
+        "kotNumber": "KOT-2001",
+        "billUuid": "a1b2c3d4-e5f6-7890-abcd-1234567890aa",
+        "origin": "Kitchen 1",
+        "createdOn": "2024-06-19 12:17:00",
+        "status": "sent",
+        "orderType": "Dine-in",
+        "isSync": false
+      }
+    ],
+    "listPayment": [
+      {
+        "paymentUuid": "99999999-8888-7777-6666-555555555555",
+        "price": 100.0,
+        "mode": "UPI",
+        "utr": "TXNUPI12345"
+      },
+      {
+        "paymentUuid": "99999999-8888-7777-6666-555555555555",
+        "price": 420.50,
+        "mode": "UPI",
+        "utr": "TXNUPI12345"
+      }
+    ]
+  }]
+ 

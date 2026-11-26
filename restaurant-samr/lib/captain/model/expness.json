@@ -1,0 +1,41 @@
+{
+  "uuid": "6b2e4b31-0912-4d1f-82c9-3a9fa1c8a7b7",
+  "name": "ABC Stationery Supplier",
+  "phone": "+91 9876543210",
+  "description": "Provides office and school stationery items",
+  "categories": [
+    {
+      "uuid": "7e7a4a63-562f-43ce-a6da-17c04652e54f",
+      "name": "Office Supplies",
+      "vendorUuid": "6b2e4b31-0912-4d1f-82c9-3a9fa1c8a7b7",
+      "expenses": [
+        {
+          "uuid": "e3c52b91-2182-4bc0-9644-2a5c8c1f46c3",
+          "amount": 2500.0,
+          "date": "2025-10-21T00:00:00.000Z",
+          "paymentMode": "Cash",
+          "description": "Printer paper and pens",
+          "nonRefundable": false,
+          "vendorUuid": "6b2e4b31-0912-4d1f-82c9-3a9fa1c8a7b7",
+          "categoryUuid": "7e7a4a63-562f-43ce-a6da-17c04652e54f"
+        },
+        {
+          "uuid": "ca4b674a-5f9c-4e9e-bc37-22b62b8cfc9d",
+          "amount": 1200.0,
+          "date": "2025-10-19T00:00:00.000Z",
+          "paymentMode": "UPI",
+          "description": "Markers and notebooks",
+          "nonRefundable": true,
+          "vendorUuid": "6b2e4b31-0912-4d1f-82c9-3a9fa1c8a7b7",
+          "categoryUuid": "7e7a4a63-562f-43ce-a6da-17c04652e54f"
+        }
+      ]
+    },
+    {
+      "uuid": "30a9a67e-6b33-4ecb-8478-4cb7c2f51ac4",
+      "name": "School Supplies",
+      "vendorUuid": "6b2e4b31-0912-4d1f-82c9-3a9fa1c8a7b7",
+      "expenses": []
+    }
+  ]
+}

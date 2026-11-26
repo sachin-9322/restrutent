@@ -1,0 +1,16 @@
+{
+  "uuid": "651a3d12f8c59b01df234a11",
+  "isSync": true,
+  "data": {
+    "tableUid": "c4e91e3d-5a7f-4b3e-8b0f-30179e424f32",
+    "attributes": {
+      "tableName": "T1",
+      "roomType": "Deluxe Room",
+      "roomUuid": "d1f92a1b-1234-4c5a-8c7b-9876abcd1234",
+      "seats": 4,
+      "orderNumber": 101,
+      "isActive": true,
+      "tableStatus": "Occupied"
+    }
+  }
+}

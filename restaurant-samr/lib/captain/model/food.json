@@ -1,0 +1,58 @@
+{  "foodUuid": "b7f6a020-45d0-4b25-94a1-34e53a4aef91",
+  "foodId": 12,
+  "foodName": "Paneer Butter Masala",
+  "categoryName": "Main Course",
+  "foodDescription": "Creamy paneer curry in rich tomato gravy",
+  "shortCode": "PBM01",
+  "isVeg": true,
+  "foodType": "Curry",
+  "isActive": true,
+  "isRecommended": true,
+  "prepTime": 15.5,
+  "hsnCode": "210690",
+  "sortIndex": 1,
+  "images": [
+    "assets/images/paneer1.jpg",
+    "assets/images/paneer2.jpg"
+  ],
+  "kitchenDepartment": "Indian Kitchen",
+  "opentItem": "No",
+  "imgPath": "assets/images/paneer1.jpg",
+  "isSync": true,
+  "menu": "Dinner",
+  "discountPrice": 220.0,
+  "qty": 1,
+
+  "name": {
+    "nameId": 5,
+    "displayName": "Paneer Butter Masala",
+    "language": "en"
+  },
+
+  "tax": {
+    "taxId": 2,
+    "taxName": "GST 5%",
+    "taxRate": 5.0
+  },
+
+  "price": [
+    {
+      "priceId": 10,
+      "unit": "Full",
+      "amount": 240.0,
+      "currency": "INR"
+    },
+    {
+      "priceId": 11,
+      "unit": "Half",
+      "amount": 130.0,
+      "currency": "INR"
+    }
+  ],
+
+  "kitchen": {
+    "kitchenId": 1,
+    "kitchenName": "Main Kitchen",
+    "departmentCode": "KITCH-IN"
+  }
+}

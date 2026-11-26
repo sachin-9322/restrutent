@@ -1,0 +1,21 @@
+{
+  "userUuid": "550e8400-e29b-41d4-a716-446655440000",
+  "personalInfo": {
+    "first": "Afroj",
+    "last": "Pathan",
+    "dob": "1990-01-01",
+    "gender": "Male",
+    "address": "123 Main Street, Mumbai, India"
+  },
+  "accountInfo": {
+    "userName": "afrojpathan",
+    "userPassword": "securepassword123",
+    "userType": "Admin"
+  },
+  "contactInfo": {
+    "countryCode": "+91",
+    "mobile": "9876543210",
+    "idProofKey": "Aadhar",
+    "idProofValue": "1234-5678-9012"
+  }
+}

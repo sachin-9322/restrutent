@@ -1,0 +1,62 @@
+name: splash_screen_03
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  audioplayers: ^6.5.1
+  cupertino_icons: ^1.0.8
+  dio: ^5.8.0+1
+  esc_pos_utils_plus: ^2.0.4
+  excel: ^4.0.6
+  faker: ^2.2.0
+  file_picker: ^10.3.3
+  fl_chart: ^1.1.1
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+  flutter_sound: ^9.28.0
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_svg: ^2.2.1
+  get: ^4.7.2
+  get_storage: ^2.1.1
+  google_fonts: ^6.3.2
+  image: ^4.3.0
+  intl: ^0.20.2
+  network_info_plus: ^7.0.0
+  objectbox: ^4.3.1
+  objectbox_flutter_libs: ^4.3.1
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  pdf: ^3.11.3
+  permission_handler: ^12.0.1
+  print_bluetooth_thermal: ^1.1.7
+  printing: ^5.14.2
+  shared_preferences: ^2.5.3
+  tuple: ^2.0.2
+  url_launcher: ^6.3.2
+  uuid: ^4.5.1
+  window_manager: ^0.5.1
+
+dev_dependencies:
+  build_runner: ^2.4.11
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
+  objectbox_generator: ^4.3.0
+
+flutter:
+  uses-material-design: true
+
+
+dependency_overrides:
+  vector_math: ^2.2.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+

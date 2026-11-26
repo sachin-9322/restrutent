@@ -1,0 +1,20 @@
+{
+  "uuid": "f73e2b3d-5c0a-4a5c-9e23-8791b5db6e54",
+  "name": "Dinner Menu",
+  "foods": [
+    {
+      "foodId": 101,
+      "foodUuid": "b33e4c6a-7ef4-4b9b-87b3-8fbe15a8f9e2",
+      "foodName": "Paneer Tikka",
+      "isVeg": true,
+      "price": 220.0
+    },
+    {
+      "foodId": 102,
+      "foodUuid": "a01a41bb-4459-4b56-8d9e-2de7f7c8b015",
+      "foodName": "Chicken Biryani",
+      "isVeg": false,
+      "price": 280.0
+    }
+  ]
+}
